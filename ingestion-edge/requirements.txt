@@ -689,7 +689,7 @@ websocket-client==0.57.0 \
     --hash=sha256:0fc45c961324d79c781bab301359d5a1b00b13ad1b10415a4780229ef71a5549 \
     --hash=sha256:d735b91d6d1692a6a181f2a8c9e0238e5f6373356f561bb9dc4c7af36f452010
     # via kubernetes
-websockets==8.1 \
+websockets==10.0 \
     --hash=sha256:0e4fb4de42701340bd2353bb2eee45314651caa6ccee80dbd5f5d5978888fed5 \
     --hash=sha256:1d3f1bf059d04a4e0eb4985a887d49195e15ebabc42364f4eb564b1d065793f5 \
     --hash=sha256:20891f0dddade307ffddf593c733a3fdb6b83e6f9eef85908113e628fa5a8308 \
