@@ -649,7 +649,7 @@ typing-inspect==0.6.0 \
     --hash=sha256:8f1b1dd25908dbfd81d3bebc218011531e7ab614ba6e5bf7826d887c834afab7 \
     --hash=sha256:de08f50a22955ddec353876df7b2545994d6df08a2f45d54ac8c05e530372ca0
     # via libcst
-ujson==3.0.0 \
+ujson==5.4.0 \
     --hash=sha256:019a17e7162f26e264f1645bb41630f7103d178c092ea4bb8f3b16126c3ea210 \
     --hash=sha256:0379ffc7484b862a292e924c15ad5f1c5306d4271e2efd162144812afb08ff97 \
     --hash=sha256:0959a5b569e192459b492b007e3fd63d8f4b4bcb4f69dcddca850a9b9dfe3e7a \
