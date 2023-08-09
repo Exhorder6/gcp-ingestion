@@ -193,7 +193,7 @@ grpc-google-iam-v1==0.12.3 \
     # via
     #   google-cloud-container
     #   google-cloud-pubsub
-grpcio==1.30.0 \
+grpcio==1.53.2 \
     --hash=sha256:08362b8b09562179b14db6ffce4b88e1a6a6edac8bccb85dd35f7b214fa5a0f5 \
     --hash=sha256:09bea7902adc33620d68462671942e163ab12214073ffb613d2fef3df94254f6 \
     --hash=sha256:0c334d6cbe27ebaa9e7211236dc99f3a9ca2ea4b3bf89b0d2544df2924343cc5 \
