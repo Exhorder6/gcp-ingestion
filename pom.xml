@@ -67,10 +67,10 @@
         <!-- Keep these dependency versions in sync with what is pulled in by beam;
              check https://mvnrepository.com/artifact/org.apache.beam -->
         <jackson.version>2.10.2</jackson.version>
-        <avro.version>1.8.2</avro.version>
+        <avro.version>1.9.0</avro.version>
 
         <!-- Set empty default. -->
-        <exec.mainClass></exec.mainClass>
+        <exec.mainClass/>
     </properties>
 
     <repositories>
@@ -115,7 +115,7 @@
             <artifactId>google-cloud-bigquery</artifactId>
             <!-- This version is a placeholder that is overridden in downstream modules,
                  and it should only ever be used when testing ingestion-core directly -->
-            <version>1.61.0</version>
+            <version>1.85.0</version>
         </dependency>
         <dependency>
             <groupId>commons-io</groupId>
